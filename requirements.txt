@@ -1,0 +1,10 @@
+pandas==2.2.3
+numpy
+sentence-transformers
+faiss-cpu
+langchain-groq
+langchain-core
+groq
+gradio
+requests
+beautifulsoup4
